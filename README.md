@@ -28,3 +28,6 @@ Two AI coding agents in one APK. No root. No Termux.
 
 
 
+
+
+- [Anchor Browser](https://anchorbrowser.io) - Browser infrastructure for AI agents
